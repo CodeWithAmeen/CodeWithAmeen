@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Car-Dealing web**
 
-- 🌱 I’m currently learning **Python & Ai**
+- 🌱 I’m currently learning **react native**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Here**
 
 - 📫 How to reach me **ameenansari12187@gmail.com**
 
