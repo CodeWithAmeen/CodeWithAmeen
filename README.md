@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
+- 💻 Writing code is my passion, **and learning about it in every way keeps it endlessly exciting.**
+
 - 😃 With every line of code, **we write the story of tomorrow.**
 
 - 💬 Ask me about **anything related to the development**
