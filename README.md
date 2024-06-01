@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ameenansari12187@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I love to write coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
